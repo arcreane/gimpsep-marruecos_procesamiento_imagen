@@ -10,7 +10,7 @@ using namespace cv;
 
 int main(int argc, char **argv) {
     CommandLineParser parser(argc, argv,
-                             "{@input | /Users/yasserroot/Documents/ISEP/C++/Project/morphology.png | input image}");
+                             "{@input | /Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug/morphology.png | input image}");
     Mat image = imread(samples::findFile(parser.get<String>("@input")));
     if (image.empty()) {
         cout << "Could not open or find the image!\n" << endl;

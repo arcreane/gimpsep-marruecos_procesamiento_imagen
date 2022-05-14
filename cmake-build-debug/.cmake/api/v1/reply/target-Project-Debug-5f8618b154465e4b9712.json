@@ -26,19 +26,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 12,
+				"line" : 18,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 14,
+				"line" : 20,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 8,
+				"line" : 16,
 				"parent" : 0
 			}
 		]
@@ -52,15 +52,45 @@
 					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk"
 				},
 				{
+					"backtrace" : 2,
+					"fragment" : "-fPIC"
+				},
+				{
 					"fragment" : "-std=gnu++14"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "QT_CORE_LIB"
 				}
 			],
 			"includes" : 
 			[
 				{
+					"backtrace" : 0,
+					"path" : "/Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug/Project_autogen/include"
+				},
+				{
 					"backtrace" : 3,
 					"isSystem" : true,
 					"path" : "/opt/homebrew/Cellar/opencv/4.5.5/include/opencv4"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/opt/homebrew/Cellar/qt@5/5.15.3/lib/QtCore.framework"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/opt/homebrew/Cellar/qt@5/5.15.3/lib/QtCore.framework/Headers"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/opt/homebrew/Cellar/qt@5/5.15.3/./mkspecs/macx-clang-arm64"
 				}
 			],
 			"language" : "CXX",
@@ -68,6 +98,7 @@
 			{
 				"backtraces" : 
 				[
+					2,
 					2
 				],
 				"standard" : "14"
@@ -78,8 +109,20 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5,
+				6
 			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "Project_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Project_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "Project::@6890427a1f51a3e7e1df",
@@ -281,6 +324,11 @@
 			},
 			{
 				"backtrace" : 2,
+				"fragment" : "/opt/homebrew/Cellar/qt@5/5.15.3/lib/QtCore.framework/QtCore",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
 				"fragment" : "/opt/homebrew/lib/libopencv_shape.4.5.5.dylib",
 				"role" : "libraries"
 			},
@@ -399,12 +447,44 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				7,
+				9
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				8,
+				10
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				11
 			]
 		}
 	],
 	"sources" : 
 	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/Project_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
@@ -434,6 +514,40 @@
 			"compileGroupIndex" : 0,
 			"path" : "main5.cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "advgui.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "advgui.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "advgui.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/Project_autogen/include/ui_advgui.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/Project_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/Project_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
 		}
 	],
 	"type" : "EXECUTABLE"

@@ -216,6 +216,12 @@ Project_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=/Users/yasserroot/Documents/ISEP/C++/Project
 
+//The directory containing a CMake configuration file for Qt5Core.
+Qt5Core_DIR:PATH=/opt/homebrew/Cellar/qt@5/5.15.3/lib/cmake/Qt5Core
+
+//The directory containing a CMake configuration file for Qt5.
+Qt5_DIR:PATH=/opt/homebrew/Cellar/qt@5/5.15.3/lib/cmake/Qt5
+
 
 ########################
 # INTERNAL cache entries
