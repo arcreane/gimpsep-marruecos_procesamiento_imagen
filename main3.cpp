@@ -18,11 +18,11 @@ int main(int argc, char **argv) {
         return -1;
     }
     Mat new_image = Mat::zeros(image.size(), image.type());
-    double alpha = 1.0; */
-/*< Simple contrast control *//*
+    double alpha = 1.0;
+//< Simple contrast control
 
-    int beta = 0;       */
-/*< Simple brightness control *//*
+    int beta = 0;
+//< Simple brightness control
 
     cout << " Basic Linear Transforms " << endl;
     cout << "-------------------------" << endl;
@@ -42,4 +42,5 @@ int main(int argc, char **argv) {
     imshow("New Image", new_image);
     waitKey();
     return 0;
-}*/
+}
+*/

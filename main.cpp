@@ -69,4 +69,5 @@ void Dilation(int dilation_size, void *) {
                                         Point(dilation_size, dilation_size));
     dilate(src, dilation_dst, element);
     imshow("Dilation Demo", dilation_dst);
-}*/
+}
+*/
