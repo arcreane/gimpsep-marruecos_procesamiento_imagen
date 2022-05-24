@@ -14,7 +14,8 @@ find_package(Qt5 COMPONENTS
         REQUIRED)
 
 include_directories(${OpenCV_INCLUDE_DIRS})
+include_directories("/opt/homebrew/Cellar/qt@5/5.15.3/lib")
 
-add_executable(Project main.cpp main2.cpp main3.cpp main4.cpp main5.cpp advgui.cpp advgui.h advgui.ui)
+add_executable(Project erosion_dilation.cpp resizing.cpp lighten_darken.cpp panorama_stitching.cpp canny_edge_detection.cpp panorama_stitching.h resizing.h lighten_darken.h erosion_dilation.h canny_edge_detection.h)
 
 target_link_libraries(Project ${OpenCV_LIBS} Qt5::Core)

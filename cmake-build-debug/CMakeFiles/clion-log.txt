@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja _DCMAKE_PREFIX_PATH=/opt/homebrew/Cellar/qt@5/5.15.3/lib/cmake -G Ninja -S /Users/yasserroot/Documents/ISEP/C++/Project -B /Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug
+"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/ninja/mac/ninja" _DCMAKE_PREFIX_PATH=/opt/homebrew/Cellar/qt@5/5.15.3/lib/cmake -G Ninja -S /Users/yasserroot/Documents/ISEP/C++/Project -B /Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug

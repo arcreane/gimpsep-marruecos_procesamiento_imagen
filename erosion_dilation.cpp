@@ -1,10 +1,12 @@
-/*
 #include "opencv2/imgproc.hpp"
 #include "opencv2/highgui.hpp"
 #include <iostream>
+#include "erosion_dilation.h"
 
 using namespace cv;
 using namespace std;
+
+
 Mat src, erosion_dst, dilation_dst;
 int erosion_elem = 0;
 int erosion_size = 0;
@@ -13,9 +15,6 @@ int dilation_size = 0;
 int const max_elem = 2;
 int const max_kernel_size = 21;
 
-void Erosion(int, void *);
-
-void Dilation(int, void *);
 
 int main(int argc, char **argv) {
     CommandLineParser parser(argc, argv,
@@ -25,7 +24,7 @@ int main(int argc, char **argv) {
         cout << "Could not open or find the image!\n" << endl;
         cout << "Usage: " << argv[0] << " <Input image>" << endl;
         return -1;
-    }
+    };
     namedWindow("Erosion Demo", WINDOW_AUTOSIZE);
     namedWindow("Dilation Demo", WINDOW_AUTOSIZE);
     moveWindow("Dilation Demo", src.cols, 0);
@@ -46,6 +45,7 @@ int main(int argc, char **argv) {
     waitKey(0);
     return 0;
 }
+
 
 void Erosion(int erosion_size, void *) {
     int erosion_type = 0;
@@ -70,4 +70,3 @@ void Dilation(int dilation_size, void *) {
     dilate(src, dilation_dst, element);
     imshow("Dilation Demo", dilation_dst);
 }
-*/

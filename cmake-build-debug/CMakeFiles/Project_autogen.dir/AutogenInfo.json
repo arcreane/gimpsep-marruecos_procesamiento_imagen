@@ -3,43 +3,43 @@
 	"CMAKE_BINARY_DIR" : "/Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug",
 	"CMAKE_CURRENT_BINARY_DIR" : "/Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug",
 	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/yasserroot/Documents/ISEP/C++/Project",
-	"CMAKE_EXECUTABLE" : "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake",
+	"CMAKE_EXECUTABLE" : "/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
 		"/Users/yasserroot/Documents/ISEP/C++/Project/CMakeLists.txt",
 		"/Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake",
 		"/Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake",
 		"/Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/UnixPaths.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-C.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-C.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-C.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXInformation.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-CXX.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-CXX.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-CXX.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/UnixPaths.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-C.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-C.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-C.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXInformation.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-CXX.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-CXX.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-CXX.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake",
 		"/opt/homebrew/lib/cmake/opencv4/OpenCVConfig-version.cmake",
 		"/opt/homebrew/lib/cmake/opencv4/OpenCVConfig.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/FindPackageMessage.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake",
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/FindPackageMessage.cmake",
 		"/opt/homebrew/lib/cmake/opencv4/OpenCVModules.cmake",
 		"/opt/homebrew/lib/cmake/opencv4/OpenCVModules-release.cmake",
 		"/opt/homebrew/Cellar/qt@5/5.15.3/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
@@ -50,7 +50,7 @@
 		"/opt/homebrew/Cellar/qt@5/5.15.3/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
 		"/opt/homebrew/Cellar/qt@5/5.15.3/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
 		"/opt/homebrew/Cellar/qt@5/5.15.3/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseArguments.cmake"
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseArguments.cmake"
 	],
 	"CMAKE_SOURCE_DIR" : "/Users/yasserroot/Documents/ISEP/C++/Project",
 	"DEP_FILE" : "/Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug/Project_autogen/deps",
@@ -58,9 +58,33 @@
 	"HEADERS" : 
 	[
 		[
-			"/Users/yasserroot/Documents/ISEP/C++/Project/advgui.h",
+			"/Users/yasserroot/Documents/ISEP/C++/Project/canny_edge_detection.h",
 			"MU",
-			"EWIEGA46WW/moc_advgui.cpp",
+			"EWIEGA46WW/moc_canny_edge_detection.cpp",
+			null
+		],
+		[
+			"/Users/yasserroot/Documents/ISEP/C++/Project/erosion_dilation.h",
+			"MU",
+			"EWIEGA46WW/moc_erosion_dilation.cpp",
+			null
+		],
+		[
+			"/Users/yasserroot/Documents/ISEP/C++/Project/lighten_darken.h",
+			"MU",
+			"EWIEGA46WW/moc_lighten_darken.cpp",
+			null
+		],
+		[
+			"/Users/yasserroot/Documents/ISEP/C++/Project/panorama_stitching.h",
+			"MU",
+			"EWIEGA46WW/moc_panorama_stitching.cpp",
+			null
+		],
+		[
+			"/Users/yasserroot/Documents/ISEP/C++/Project/resizing.h",
+			"MU",
+			"EWIEGA46WW/moc_resizing.cpp",
 			null
 		]
 	],
@@ -77,6 +101,7 @@
 	],
 	"MOC_INCLUDES" : 
 	[
+		"/opt/homebrew/Cellar/qt@5/5.15.3/lib",
 		"/opt/homebrew/Cellar/opencv/4.5.5/include/opencv4",
 		"/opt/homebrew/Cellar/qt@5/5.15.3/lib/QtCore.framework",
 		"/opt/homebrew/Cellar/qt@5/5.15.3/lib/QtCore.framework/Headers",
@@ -95,7 +120,7 @@
 		"-dM",
 		"-E",
 		"-c",
-		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+		"/Users/yasserroot/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
 	],
 	"MOC_PREDEFS_FILE" : "/Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug/Project_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
@@ -110,12 +135,31 @@
 	"SETTINGS_FILE" : "/Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug/CMakeFiles/Project_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/Users/yasserroot/Documents/ISEP/C++/Project/advgui.cpp", "MU", null ],
-		[ "/Users/yasserroot/Documents/ISEP/C++/Project/main.cpp", "MU", null ],
-		[ "/Users/yasserroot/Documents/ISEP/C++/Project/main2.cpp", "MU", null ],
-		[ "/Users/yasserroot/Documents/ISEP/C++/Project/main3.cpp", "MU", null ],
-		[ "/Users/yasserroot/Documents/ISEP/C++/Project/main4.cpp", "MU", null ],
-		[ "/Users/yasserroot/Documents/ISEP/C++/Project/main5.cpp", "MU", null ]
+		[
+			"/Users/yasserroot/Documents/ISEP/C++/Project/canny_edge_detection.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/yasserroot/Documents/ISEP/C++/Project/erosion_dilation.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/yasserroot/Documents/ISEP/C++/Project/lighten_darken.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/yasserroot/Documents/ISEP/C++/Project/panorama_stitching.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/yasserroot/Documents/ISEP/C++/Project/resizing.cpp",
+			"MU",
+			null
+		]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

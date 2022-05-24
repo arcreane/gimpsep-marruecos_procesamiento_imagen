@@ -1,7 +1,7 @@
-/*
 #include "opencv2/imgproc.hpp"
 #include "opencv2/highgui.hpp"
 #include <iostream>
+#include "canny_edge_detection.h"
 
 using namespace cv;
 Mat src, src_gray;
@@ -20,7 +20,8 @@ static void CannyThreshold(int, void *) {
     imshow(window_name, dst);
 }
 
-int main(int argc, char **argv) {
+
+int Canny_edge_detection(int argc, char **argv) {
     CommandLineParser parser(argc, argv,
                              "{@input | image.jpg | input image}");
     src = imread(samples::findFile(parser.get<String>("@input")), IMREAD_COLOR); // Load an image
@@ -35,5 +36,4 @@ int main(int argc, char **argv) {
     createTrackbar("Min Threshold:", window_name, &lowThreshold, max_lowThreshold, CannyThreshold);
     CannyThreshold(0, 0);
     waitKey(0);
-    return 0;
-}*/
+}

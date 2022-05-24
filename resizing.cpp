@@ -1,12 +1,13 @@
-/*
 #include "opencv2/imgproc.hpp"
 #include "opencv2/highgui.hpp"
 #include <iostream>
-
+#include "resizing.h"
 using namespace std;
 using namespace cv;
 
-int main() {
+
+
+void Resizing() {
     Mat image = imread("/Users/yasserroot/Documents/ISEP/C++/Project/morphology.png");
     imshow("Original Image", image);
 
@@ -32,7 +33,5 @@ int main() {
     waitKey();
 
     destroyAllWindows();
-
-    return 0;
 }
-*/
+

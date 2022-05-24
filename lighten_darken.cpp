@@ -1,14 +1,15 @@
-/*
 #include "opencv2/imgcodecs.hpp"
 #include "opencv2/highgui.hpp"
 #include <iostream>
-// we're NOT "using namespace std;" here, to avoid collisions between the beta variable and std::beta in c++17
+#include "lighten_darken.h"
+
 using std::cin;
 using std::cout;
 using std::endl;
 using namespace cv;
 
-int main(int argc, char **argv) {
+
+int Lighten_darken(int argc, char **argv) {
     CommandLineParser parser(argc, argv,
                              "{@input | /Users/yasserroot/Documents/ISEP/C++/Project/cmake-build-debug/morphology.png | input image}");
     Mat image = imread(samples::findFile(parser.get<String>("@input")));
@@ -41,6 +42,4 @@ int main(int argc, char **argv) {
     imshow("Original Image", image);
     imshow("New Image", new_image);
     waitKey();
-    return 0;
 }
-*/
