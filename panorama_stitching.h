@@ -1,10 +1,10 @@
 #ifndef PROJECT_PANORAMA_STITCHING_H
 #define PROJECT_PANORAMA_STITCHING_H
 
-void printUsage(char **argv);
+#include <QString>
 
-int parseCmdArgs(int argc, char **argv);
+void PanoramaStitching(QStringList path);
 
-int Panorama_stitching(int argc, char *argv[]);
+void PanoramaStitchingProcess();
 
 #endif //PROJECT_PANORAMA_STITCHING_H
